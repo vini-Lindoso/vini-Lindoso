@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Vini Lindoso 😁
+## Bem-vindo(a) ao perfil do Vini Lindoso 😁 Estou iniciando nesse mundo
 
  <div>
    <a href="https://github.com/vini-Lindoso">
